@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabroc2000
+- 👋 Hi, I’m Gabriel @gabroc2000
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning a Full Stack Developer Programm
 - 💞️ I’m looking to collaborate on every job I can fell challenged on. 
